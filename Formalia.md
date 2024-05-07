@@ -11,8 +11,8 @@ In der Facharbeit geht es darum, ein Thema einzugrenzen und eine fundierte Reche
 - Eigenes Deckblatt (wie beim Praktikumsbericht). Es ist NICHT Teil der 6 Seiten!
 - Ein Inhaltsverzeichnis mit Kapitel-Titeln und Seitenzahlen. Ebenfalls NICHT Teil der 6 Seiten.
 - Genaue Quellenangabe von Videos, Internetquellen, analogen Quellen und Interviewpartnern. Ebenfalls nicht Teil der 6 Seiten. Die Transkription des Interviews gehört in den Anhang, der Auswertung in den Hauptteil.
-- Schriftart: Arial
-- Ränder: 2 cm überall
+- Schriftart (überall): Arial
+- Ränder (überall): 2 cm
 - Zeilenabstand: 1,5 pt
 - Seitenzahlen unten rechts
 - Schriftgrößen
@@ -21,7 +21,7 @@ In der Facharbeit geht es darum, ein Thema einzugrenzen und eine fundierte Reche
     - H2: 13 pt, fett, Abstand darüber: 8 pt, darunter 2 pt.
     - H3: 12 pt, fett, Abstand darüber: 8 pt, darunter 2 pt.
   - Fließtext: 12 pt, Abstand darüber: 0 pt, darunter 0 pt.
-  - Fußnoten: 9pt, Zeilenabstand 1 pt. Sie sind nicht Teil der 6 Seiten. Schätzt / Messt grob, wie viel **alle** Überschriften an Platz ausmachen und zieht diesen Wert von der Gesamtseitenzahl ab.
+  - Fußnoten: 9 pt, Zeilenabstand 1 pt. Sie sind nicht Teil der 6 Seiten. Schätzt / Messt grob, wie viel **alle** Überschriften zusammen an Platz ausmachen und zieht diesen Wert von der Gesamtseitenzahl ab.
 
 ## Bewertung
 
