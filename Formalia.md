@@ -13,7 +13,7 @@ In der Facharbeit geht es darum, ein Thema einzugrenzen und eine fundierte Reche
 - Genaue Quellenangabe von Videos, Internetquellen, analogen Quellen und Interviewpartnern. Ebenfalls nicht Teil der 6 Seiten. Die Transkription des Interviews gehört in den Anhang, der Auswertung in den Hauptteil.
 - Schriftart (überall): Arial
 - Ränder (überall): 2 cm
-- Zeilenabstand: 1,5 pt
+- Zeilenabstand: 1,5 Zeilen
 - Seitenzahlen unten rechts
 - Schriftgrößen
   - Überschrift
@@ -21,7 +21,7 @@ In der Facharbeit geht es darum, ein Thema einzugrenzen und eine fundierte Reche
     - H2: 13 pt, fett, Abstand darüber: 8 pt, darunter 2 pt.
     - H3: 12 pt, fett, Abstand darüber: 8 pt, darunter 2 pt.
   - Fließtext: 12 pt, Abstand darüber: 0 pt, darunter 0 pt.
-  - Fußnoten: 9 pt, Zeilenabstand 1 pt. Sie sind nicht Teil der 6 Seiten. Schätzt / messt grob ab, wie viel Platz **alle** Überschriften insgesamt einnehmen und zieht diesen Wert von der Gesamtseitenzahl ab.
+  - Fußnoten: 9 pt, Zeilenabstand: Einfach. Sie sind nicht Teil der 6 Seiten. Schätzt / messt grob ab, wie viel Platz **alle** Überschriften insgesamt einnehmen und zieht diesen Wert von der Gesamtseitenzahl ab.
 
 ## Bewertung
 
